@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "kisstkondoros.vscode-codemetrics",
+    "octref.vetur",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "aaron-bond.better-comments",
+    "DavidAnson.vscode-markdownlint",
+  ]
+}
