@@ -52,7 +52,7 @@ module.exports = (api, options) => {
     },
     'lint-staged': {
       '*.{js, vue}': ['vue-cli-service lint'],
-      '*.{vue, scss, css}': ["stylelint '**/*.{vue, scss, css}'"],
+      '*.{html, vue, scss, css}': ["stylelint '**/*.{vue, scss, css}'"],
     },
     browserslist: ['> 1%', 'last 2 versions', 'not dead'],
   })
